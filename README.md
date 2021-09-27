@@ -1,5 +1,6 @@
 # Assessment-6
 Wheel of Fortune Project
+
 Purpose:
 The purpose of this project is to develop my Python skills. This project tests many of the fundamental skills of the Python language.
 Game Play:
